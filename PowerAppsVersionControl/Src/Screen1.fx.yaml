@@ -23,3 +23,10 @@ Screen1 As screen:
         Y: =477
         ZIndex: =3
 
+    Label3 As label:
+        Text: ="New test "
+        Width: =432
+        X: =608
+        Y: =477
+        ZIndex: =4
+
