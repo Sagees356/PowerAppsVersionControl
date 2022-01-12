@@ -5,10 +5,11 @@
     "Button1": 4,
     "Label1": 5,
     "Label2": 6,
+    "Label3": 7,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2022 06:27:34",
+  "HeaderLastSavedDateTimeUTC": "01/12/2022 07:11:22",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -26,6 +27,7 @@
     "Button1": 0,
     "Label1": 0,
     "Label2": 0,
+    "Label3": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
