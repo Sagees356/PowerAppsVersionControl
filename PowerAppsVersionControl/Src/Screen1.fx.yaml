@@ -17,3 +17,9 @@ Screen1 As screen:
         Y: =182
         ZIndex: =2
 
+    Label2 As label:
+        Text: ="Testlabel"
+        X: =147
+        Y: =477
+        ZIndex: =3
+
